@@ -1,6 +1,6 @@
 # Backend Job Application - TestExercise
 
-## Description of application
+## Description of application development
 
 Let’s assume we have an application that contains millions of businesses. Each business
 has a name, a description, an address, and one or multiple owners.
